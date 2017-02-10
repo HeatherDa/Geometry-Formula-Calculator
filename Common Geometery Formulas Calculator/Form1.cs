@@ -19,7 +19,7 @@ namespace Common_Geometery_Formulas_Calculator
 
         }
 
-       
+        
         private void rbtnTrapezoid_CheckedChanged(object sender, EventArgs e)
         {
             //area txtInput1=top, txtInput2=bottom, txtInput3=height
